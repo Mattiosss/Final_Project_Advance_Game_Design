@@ -53,5 +53,11 @@ TagManager:
   - name: Signage
     uniqueID: 1050762409
     locked: 0
+  - name: Customer
+    uniqueID: 1670545935
+    locked: 0
+  - name: UI
+    uniqueID: 1571491247
+    locked: 0
   m_RenderingLayers:
   - Default

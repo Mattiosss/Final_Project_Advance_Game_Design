@@ -50,8 +50,8 @@ MonoBehaviour:
   sfxMixer: {fileID: 24100000, guid: a3a6ad0a11ac770459e0cbbd255f51e1, type: 2}
   musicAudioSource: {fileID: 8322792040017146708}
   sfxAudioSource: {fileID: 3355216746680637737}
-  menuMusic: {fileID: 0}
-  clickSFX: {fileID: 0}
+  musicTracks: []
+  sfxClips: []
 --- !u!82 &8322792040017146708
 AudioSource:
   m_ObjectHideFlags: 0
@@ -61,7 +61,7 @@ AudioSource:
   m_GameObject: {fileID: 7560772505159710411}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 24300002, guid: a3a6ad0a11ac770459e0cbbd255f51e1, type: 2}
+  OutputAudioMixerGroup: {fileID: 3602545241193304416, guid: a3a6ad0a11ac770459e0cbbd255f51e1, type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
@@ -158,7 +158,7 @@ AudioSource:
   m_GameObject: {fileID: 7560772505159710411}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 415761994355331729, guid: a3a6ad0a11ac770459e0cbbd255f51e1, type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
