@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 128c2c4f6bcba9940b52c00096f52459
+guid: 31887614f7079bb4aa71361f0c6a86ac
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8725795740667089140
-    second: Logo of StoreFront Empire_0
+      213: -1316757132503505953
+    second: StoreFront Empire Logo 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Logo of StoreFront Empire_0
+      name: StoreFront Empire Logo 1_0
       rect:
         serializedVersion: 2
-        x: 128
-        y: 83
-        width: 360
-        height: 275
+        x: 240
+        y: 109
+        width: 193
+        height: 157
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0febee410fb7e680800000000000000
-      internalID: -8725795740667089140
+      spriteID: fd3aaad4d50f9bde0800000000000000
+      internalID: -1316757132503505953
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Logo of StoreFront Empire_0: -8725795740667089140
+      StoreFront Empire Logo 1_0: -1316757132503505953
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
