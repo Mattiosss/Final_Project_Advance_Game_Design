@@ -50,8 +50,12 @@ MonoBehaviour:
   sfxMixer: {fileID: 24100000, guid: a3a6ad0a11ac770459e0cbbd255f51e1, type: 2}
   musicAudioSource: {fileID: 8322792040017146708}
   sfxAudioSource: {fileID: 3355216746680637737}
-  musicTracks: []
-  sfxClips: []
+  musicTracks:
+  - name: Gameplay
+    clip: {fileID: 8300000, guid: 2cebe5ef59f447d4d803665e3ecf1a2f, type: 3}
+  sfxClips:
+  - name: CashRegister SFX
+    clip: {fileID: 8300000, guid: dbd2aef09f42209488115a88fc7f8e74, type: 3}
 --- !u!82 &8322792040017146708
 AudioSource:
   m_ObjectHideFlags: 0

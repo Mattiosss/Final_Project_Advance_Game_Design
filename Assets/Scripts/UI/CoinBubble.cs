@@ -62,7 +62,7 @@ public class CoinBubble : MonoBehaviour
             }
 
             EconomyManager.Instance.AddMoney(totalSale, transform.position);
-            AudioManager.Instance.PlayMusic("CashRegisterSFX");
+            AudioManager.Instance.PlaySFX("CashRegister SFX");
             customer.LeaveStore(true);
         }
         else if (customer != null)
